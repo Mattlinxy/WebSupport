@@ -45,7 +45,7 @@
     </tr>
     <tr>
         <td>clearData.do</td>
-        <td>清理后台变量</td>
+        <td>清理后台数据</td>
         <td>无</td>
         <td>无</td>
         <td>无</td>
