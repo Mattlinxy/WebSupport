@@ -30,8 +30,8 @@
     <tr>
         <td>put.do</td>
         <td>将变量放入后台</td>
-        <td>key,name1..n</td>
-        <td>String,Object1..n</td>
+        <td>key,value</td>
+        <td>String,Object</td>
         <td>变量名字,对象值</td>
         <td>false/true</td>
     </tr>
@@ -42,6 +42,14 @@
         <td>无</td>
         <td>无</td>
         <td>String[]</td>
+    </tr>
+    <tr>
+        <td>clearData.do</td>
+        <td>清理后台变量</td>
+        <td>无</td>
+        <td>无</td>
+        <td>无</td>
+        <td>true</td>
     </tr>
 </table>
 </body>
